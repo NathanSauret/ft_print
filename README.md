@@ -11,7 +11,7 @@ Standard C library (unistd)
  	int	ft_print(char *str, void *val)
 
 ## DESCRIPTION
-ft_print() write the str input, replacing the '%' with the input value.  
+ft_print() write the str input, replacing the '%' with the val input.  
 There is 7 types of '%':
 - '%d' = int
 - '%f' = float
