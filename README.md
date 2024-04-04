@@ -19,7 +19,9 @@ There is 7 types of '%':
 - '%s' = str
 - '%d{nb}' = array of int
 - '%s{nb}' = array of str
-- '%d{rows}|{cols}' = matrix (int) with number of rows and number of columns
+- '%d{rows}|{cols}' = matrix (int) with number of rows and number of columns  
+
+You have to give a space between the '%' and the rest of the str.  
 
 ## RETURN VALUE
 In case of error ft_print() return 1, else 0.  
