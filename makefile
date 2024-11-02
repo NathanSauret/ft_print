@@ -1,5 +1,5 @@
 all: compile
-
+ 
 compile: compile_header
 	@-cc *.o -w test.c && ./a.out
 	@-rm *.o
