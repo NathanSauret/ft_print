@@ -1,7 +1,7 @@
 # ft_print
 ## NAME
 ft_print - an alternative to printf compatible with "42" (school) with some extras.  
-
+ 
 ## LIBRARY
 Standard C library (unistd)  
 
